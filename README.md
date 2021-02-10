@@ -2,8 +2,6 @@
 ## This repository is created to practice the above concepts mentioned following the Harvard Univeristy online course.
 
 #Stack
--Python3 
+-Python3
 -Django
 -Sql
-
-
